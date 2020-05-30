@@ -1,0 +1,6 @@
+//The type of actions that we are going to have on aur application
+const SET_STATE ='SET_STATE';
+const REFRESH_CATEGORY ='REFRESH_CATEGORY';
+const REFRESH_PRENDAS='REFRESH_PRENDAS';
+const REFRESH_SETS ='REFRESH_SETS';
+export {REFRESH_CATEGORY,REFRESH_PRENDAS,SET_STATE,REFRESH_SETS}
